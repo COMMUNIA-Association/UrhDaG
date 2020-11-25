@@ -1,4 +1,6 @@
-# §1 Öffentliche Wiedergabe, Verantwortlichkeit
+# Teil 1 Allgemeine Vorschriften
+
+## §1 Öffentliche Wiedergabe, Verantwortlichkeit
 
 (1) Ein Diensteanbieter (§ 2) gibt Werke öffentlich wieder, wenn er der Öffentlichkeit
 Zugang zu urheberrechtlich geschützten Werken verschafft, die von Nutzern des Dienstes hochgeladen worden sind.
@@ -14,7 +16,7 @@ Zugang zu urheberrechtlich geschützten Werken verschafft, die von Nutzern des D
 
 (4) Ein Diensteanbieter, dessen Hauptzweck es ist, sich an Urheberrechtsverletzungen zu beteiligen oder sie zu erleichtern, kann sich auf Absatz 2 nicht berufen.
 
-# §2 Diensteanbieter
+## §2 Diensteanbieter
 
 (1) Diensteanbieter im Sinne dieses Gesetzes sind Anbieter von Diensten im Sinne des Artikels 1 Absatz 1 Buchstabe b der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1), die
 
@@ -31,7 +33,7 @@ halb der Europäischen Union von bis zu 10 Millionen Euro und deren Dienste der 
 (4) Für die Berechnung des Umsatzes eines Diensteanbieters nach den Absätzen 2 und 3 ist die Empfehlung der Kommission vom 6. Mai 2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen anzuwenden (ABl. L 124 vom 20.5.2003, S. 36; L 334 vom 27.12.2019, S. 164). Maßgeblich ist jeweils der Umsatz des vorangegangenen Kalenderjahres.
 
 
-# §3 Nicht erfasste Dienste
+## §3 Nicht erfasste Dienste
 
 Dieses Gesetz gilt insbesondere nicht für
 
