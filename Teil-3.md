@@ -1,19 +1,21 @@
-# Teil 3 Nicht erlaubte Nutzungen
+# Teil 3 Unerlaubte Nutzungen
 
-## § 10 Sperrung nicht erlaubter Nutzungen
+## § 7 Qualifizierte Blockierung
 
-(1) Verlangt ein Rechtsinhaber vom Diensteanbieter, sein Werk zu sperren, so ist der Diensteanbieter hierzu nach Maßgabe von § 1 Absatz 2 verpflichtet, sobald der Rechtsinhaber die hierfür erforderlichen Informationen zur Verfügung gestellt hat und sofern die Sperrung nach § 8 Absatz 2 und § 12 zulässig ist.
+(1) Der Diensteanbieter ist nach Maßgabe von § 1 Absatz 2 verpflichtet, durch Sperrung oder Entfernung (Blockierung) bestmöglich sicherzustellen, dass ein Werk nicht öffentlich wiedergegeben wird und hierfür auch künftig nicht verfügbar ist, sobald der Rechtsinhaber dies verlangt und die hierfür erforderlichen Informationen zur Verfügung stellt.
 
-(2) Startup-Diensteanbieter (§ 2 Absatz 2) sind zur Sperrung nicht verpflichtet, solange die durchschnittliche monatliche Anzahl unterschiedlicher Besucher der Internetseiten des Dienstes 5 Millionen nicht übersteigt.
+(2) Maßnahmen nach Absatz 1 dürfen nicht dazu führen, dass von Nutzern hochgeladene Inhalte, deren Nutzung gesetzlich erlaubt ist oder bei denen kein Verstoß gegen das Urheberrecht vorliegt, nicht verfügbar sind. Beim Einsatz automatisierter Verfahren sind die §§ 9 bis 11 anzuwenden.
 
-(3) Es wird widerleglich vermutet, dass kleine Diensteanbieter (§ 2 Absatz 3) im Hinblick auf den Grundsatz der Verhältnismäßigkeit nicht zur Sperrung verpflichtet sind.
+(3) Der Diensteanbieter informiert den Nutzer sofort über die Blockierung des von ihm hochgeladenen Inhalts und weist ihn auf das Recht hin, nach § 14 Beschwerde einzulegen.
 
-## § 11 Entfernung nicht erlaubter Nutzungen
+(4) Startup-Diensteanbieter (§ 2 Absatz 2) sind nicht nach Absatz 1 verpflichtet, solange die durchschnittliche monatliche Anzahl unterschiedlicher Besucher der Internetseiten des Dienstes 5 Millionen nicht übersteigt.
 
-Verlangt ein Rechtsinhaber vom Diensteanbieter, sein unerlaubt wiedergegebenes Werk zu entfernen, so ist der Diensteanbieter nach Maßgabe von § 1 Absatz 2 hierzu sowie zur künftigen Sperrung nach Maßgabe von § 10 verpflichtet, sobald der Rechtsinhaber die hierfür erforderlichen Informationen zur Verfügung gestellt hat und sofern die Entfernung und Sperrung nach § 8 Absatz 2 und § 12 zulässig sind.
+(5) Es wird widerleglich vermutet, dass kleine Diensteanbieter (§ 2 Absatz 3) im Hinblick auf den Grundsatz der Verhältnismäßigkeit nicht nach Absatz 1 verpflichtet sind.
 
-## § 12 Sperrung und Entfernung bei Kennzeichnung als erlaubte Nutzung
+## § 8 Einfache Blockierung
 
-(1) Die Sperrung oder Entfernung ist trotz Kennzeichnung nach § 8 Absatz 2 durchzuführen, wenn diese offensichtlich unzutreffend ist. Stimmt der vom Nutzer hochgeladene Inhalt zu mindestens 90 Prozent mit den vom Rechtsinhaber zur Verfügung gestellten Informationen überein, so wird im Falle der Berufung auf gesetzliche Erlaubnisse vermutet, dass die Kennzeichnung offensichtlich unzutreffend ist. Satz 2 gilt nicht für einzelne Abbildungen.
+(1) Der Diensteanbieter ist nach Maßgabe von § 1 Absatz 2 verpflichtet, die öffentliche Wiedergabe eines Werkes durch Blockierung zu beenden, sobald der Rechtsinhaber dies verlangt und einen hinreichend begründeten Hinweis auf die unerlaubte öffentliche Wiedergabe des Werkes gibt.
 
-(2) Der Diensteanbieter informiert den Nutzer sofort über die Sperrung und deren Anlass.
+(2) § 7 Absatz 2 und 3 ist entsprechend anzuwenden.
+
+(3) Zur Blockierung künftiger unerlaubter Nutzungen des Werkes ist der Diensteanbieter nach Maßgabe von § 7 erst verpflichtet, nachdem der Rechtsinhaber die hierfür erforderlichen Informationen zur Verfügung stellt.
