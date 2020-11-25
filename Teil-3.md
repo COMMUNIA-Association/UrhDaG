@@ -12,7 +12,7 @@
 
 Verlangt ein Rechtsinhaber vom Diensteanbieter, sein unerlaubt wiedergegebenes Werk zu entfernen, so ist der Diensteanbieter nach Maßgabe von § 1 Absatz 2 hierzu sowie zur künftigen Sperrung nach Maßgabe von § 10 verpflichtet, sobald der Rechtsinhaber die hierfür erforderlichen Informationen zur Verfügung gestellt hat und sofern die Entfernung und Sperrung nach § 8 Absatz 2 und § 12 zulässig sind.
 
-§ 12 Sperrung und Entfernung bei Kennzeichnung als erlaubte Nutzung
+## § 12 Sperrung und Entfernung bei Kennzeichnung als erlaubte Nutzung
 
 (1) Die Sperrung oder Entfernung ist trotz Kennzeichnung nach § 8 Absatz 2 durchzuführen, wenn diese offensichtlich unzutreffend ist. Stimmt der vom Nutzer hochgeladene Inhalt zu mindestens 90 Prozent mit den vom Rechtsinhaber zur Verfügung gestellten Informationen überein, so wird im Falle der Berufung auf gesetzliche Erlaubnisse vermutet, dass die Kennzeichnung offensichtlich unzutreffend ist. Satz 2 gilt nicht für einzelne Abbildungen.
 
