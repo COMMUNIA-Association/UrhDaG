@@ -2,11 +2,15 @@
 
 ## §4 Pflicht zum Erwerb vertraglicher Nutzungsrechte; Direktvergütungsanspruch des Urhebers
 
-Ein Diensteanbieter ist verpflichtet, bestmögliche Anstrengungen zu unternehmen, um die vertraglichen Nutzungsrechte für die öffentliche Wiedergabe urheberrechtlich geschützter Werke zu erwerben. Der Diensteanbieter erfüllt diese Pflicht, sofern er Nutzungsrechte erwirbt, die ihm entweder angeboten werden oder die über eine im Inland ansässige Verwertungsgesellschaft oder abhängige Verwertungseinrichtung verfügbar sind.
+(1) Ein Diensteanbieter ist verpflichtet, bestmögliche Anstrengungen zu unternehmen, um die vertraglichen Nutzungsrechte für die öffentliche Wiedergabe urheberrechtlich geschützter Werke zu erwerben. Der Diensteanbieter erfüllt diese Pflicht, sofern er Nutzungsrechte erwirbt, die
+
+1. ihm angeboten werden,
+2. über repräsentative Rechtsinhaber verfügbar sind, die der Diensteanbieter kennt, oder
+3. über im Inland ansässige Verwertungsgesellschaften oder abhängige Verwertungseinrichtungen erworben werden können.
 
 (2) Nutzungsrechte nach Absatz 1 Satz 2 müssen
 
-1. für Inhalte gelten, die der Diensteanbieter typischerweise öffentlich wiedergibt,
+1. für Inhalte gelten, die der Diensteanbieter ihrer Art nach offensichtlich in mehr als geringfügigen Mengen öffentlich wiedergibt,
 2. in Bezug auf Werke und Rechtsinhaber ein erhebliches Repertoire umfassen,
 3. den räumlichen Geltungsbereich dieses Gesetzes abdecken und
 4. die Nutzung zu angemessenen Bedingungen ermöglichen.
@@ -21,7 +25,7 @@ Ein Diensteanbieter ist verpflichtet, bestmögliche Anstrengungen zu unternehmen
 2. für Karikaturen, Parodien und Pastiches nach § 51a des Urheberrechtsgesetzes und
 3. für von den Nummern 1 und 2 nicht erfasste gesetzlich erlaubte Fälle der öffentlichen Wiedergabe nach Teil 1 Abschnitt 6 des Urheberrechtsgesetzes.
 
-(2) Für die öffentliche Wiedergabe nach Absatz 1 hat der Diensteanbieter dem Urheber eine angemessene Vergütung zu zahlen. § 60h Absatz 3 Satz 1 und Absatz 4 des Urheberrechtsgesetzes ist entsprechend anzuwenden.
+(2) Für die öffentliche Wiedergabe nach Absatz 1 hat der Diensteanbieter dem Urheber eine angemessene Vergütung zu zahlen. Der Anspruch kann nur durch eine Verwertungsgesellschaft geltend gemacht werden.
 
 (3) Der Diensteanbieter hat den Nutzer auf die gesetzlichen Erlaubnisse nach Absatz 1 in seinen Allgemeinen Geschäftsbedingungen hinzuweisen.
 
