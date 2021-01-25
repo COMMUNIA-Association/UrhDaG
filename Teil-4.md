@@ -1,6 +1,6 @@
 # Teil 5 Rechtsbehelfe
 
-## § 13 Rechtsbehelfe, Zugang zu den Gerichten
+## § 13 Rechtsbehelfe; Zugang zu den Gerichten
 
 (1) Für Nutzer und Rechtsinhaber ist die Teilnahme an Beschwerdeverfahren nach den §§ 14 und 15 freiwillig.
 
@@ -16,13 +16,15 @@
 
 (2) Beschwerden sind zu begründen.
 
-(3) Der Diensteanbieter ist verpflichtet,
+(3) Der Diensteanbieter ist verpflichtet, unverzüglich
 
-1. die Beschwerde allen Beteiligten unverzüglich zur Kenntnis zu bringen,
-2. allen Beteiligten die Möglichkeit zur unverzüglichen Stellungnahme zu der Beschwerde zu geben und
-3. innerhalb einer Woche nach Einlegung über die Beschwerde zu entscheiden.
+1. die Beschwerde allen Beteiligten mitzuteilen,
+2. allen Beteiligten Gelegenheit zur Stellungnahme zu geben und
+3. über die Beschwerde zu entscheiden; spätestens innerhalb einer Woche nach deren Einlegung.
 
-(4) Entscheidungen über Beschwerden müssen von natürlichen Personen getroffen werden, die unparteiisch sind.
+(4) Erklärt ein vertrauenswürdiger Rechtsinhaber nach Prüfung durch eine natürliche Person, dass die Vermutung nach § 9 Absatz 2 zu widerlegen ist und die fortdauernde öffentliche Wiedergabe die wirtschaftliche Verwertung des Werkes erheblich beeinträchtigt, so ist der Diensteanbieter in Abweichung von § 9 Absatz 1 zur sofortigen Blockierung bis zum Abschluss des Beschwerdeverfahrens verpflichtet.
+
+(5) Entscheidungen über Beschwerden müssen von natürlichen Personen getroffen werden, die unparteiisch sind.
 
 ## § 15 Externe Beschwerdestelle
 
@@ -36,7 +38,7 @@
 
 (2) Die Vorschriften des Netzwerkdurchsetzungsgesetzes über privatrechtlich organisierte Schlichtungsstellen sind mit der Maßgabe anzuwenden, dass das Bundesamt für Justiz als zuständige Behörde die Entscheidung über die Anerkennung einer privatrechtlich organisierten Schlichtungsstelle im Einvernehmen mit dem Deutschen Patentund Markenamt trifft.
 
-## § 18 Außergerichtliche Streitbeilegung durch die behördliche Schlichtungsstelle
+## § 17 Außergerichtliche Streitbeilegung durch die behördliche Schlichtungsstelle
 
 (1) Das Bundesamt für Justiz richtet im Einvernehmen mit dem Deutschen Patent- und Markenamt eine behördliche Schlichtungsstelle ein.
 
