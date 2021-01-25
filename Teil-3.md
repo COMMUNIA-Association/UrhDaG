@@ -1,6 +1,6 @@
 # Teil 3 Unerlaubte Nutzungen
 
-## § 7 Qualifizierte Blockierung
+## §7 Qualifizierte Blockierung
 
 (1) Der Diensteanbieter ist nach Maßgabe von § 1 Absatz 2 verpflichtet, durch Sperrung oder Entfernung (Blockierung) bestmöglich sicherzustellen, dass ein Werk nicht öffentlich wiedergegeben wird und hierfür auch künftig nicht verfügbar ist, sobald der Rechtsinhaber dies verlangt und die hierfür erforderlichen Informationen zur Verfügung stellt.
 
@@ -12,10 +12,10 @@
 
 (5) Es wird widerleglich vermutet, dass kleine Diensteanbieter (§ 2 Absatz 3) im Hinblick auf den Grundsatz der Verhältnismäßigkeit nicht nach Absatz 1 verpflichtet sind.
 
-## § 8 Einfache Blockierung
+## §8 Einfache Blockierung
 
 (1) Der Diensteanbieter ist nach Maßgabe von § 1 Absatz 2 verpflichtet, die öffentliche Wiedergabe eines Werkes durch Blockierung zu beenden, sobald der Rechtsinhaber dies verlangt und einen hinreichend begründeten Hinweis auf die unerlaubte öffentliche Wiedergabe des Werkes gibt.
 
-(2) § 7 Absatz 2 und 3 ist entsprechend anzuwenden.
+(2) § 7 Absatz 2 Satz 1 und Absatz 3 ist entsprechend anzuwenden.
 
 (3) Zur Blockierung künftiger unerlaubter Nutzungen des Werkes ist der Diensteanbieter nach Maßgabe von § 7 erst verpflichtet, nachdem der Rechtsinhaber die hierfür erforderlichen Informationen zur Verfügung stellt.
