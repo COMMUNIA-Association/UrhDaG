@@ -20,6 +20,8 @@
 
 (2) Der Rechtsinhaber kann von dem Diensteanbieter angemessene Auskunft über die Funktionsweise der Verfahren zur Blockierung unerlaubter Nutzungen seines Repertoires nach den §§ 7 und 8 verlangen.
 
+(3)	Der Diensteanbieter gewährt Berechtigten nach § 60d Absatz 2 des Urheberrechtsgesetzes zum Zweck der wissenschaftlichen Forschung Zugang zu Daten über den Einsatz von Verfahren zur automatisierten und nicht automatisierten Erkennung und Blockierung von Inhalten, soweit überwiegende schutzwürdige Interessen des Diensteanbieters nicht entgegenstehen. Der Diensteanbieter hat Anspruch auf Erstattung der hierdurch entstehenden Kosten in angemessener Höhe.
+
 ## § 20 Inländischer Zustellungsbevollmächtigter
 
 Für die Verpflichtung des Diensteanbieters zur Bestellung eines inländischen Zustellungsbevollmächtigten für das gerichtliche Verfahren gilt § 5 Absatz 1 des Netzwerkdurchsetzungsgesetzes entsprechend.
